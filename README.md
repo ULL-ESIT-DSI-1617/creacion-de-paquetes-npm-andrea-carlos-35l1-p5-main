@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-andrea-carlos-35l1-p5-main.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-andrea-carlos-35l1-p5-main)
-
 ## Clase Main.
 
 * Enlace a la descripción de la práctica: https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicasessions.html
