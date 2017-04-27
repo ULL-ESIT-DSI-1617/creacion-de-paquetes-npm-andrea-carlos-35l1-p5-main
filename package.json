@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "ejemplos de switch smell.",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --require should",
-    "doc": "documentation build ./lib/shape.js -f html -o docs"
+    "test": "./node_modules/mocha/bin/mocha --require should"
   },
   "repository": {
     "type": "git",
